@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AsyncSwift.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Atlantis.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Storm.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SwiftDate.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>3CD682E486D2F7AC51A49BD46B046E22</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>514AD73B93B8B09AB38937AC19A3F9A2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9CADE2666283EDF8FA705B78D63B94F6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D1DC35DB2C695031A72543555FB23729</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

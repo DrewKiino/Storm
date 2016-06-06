@@ -1,0 +1,18 @@
+PODS:
+  - AsyncSwift (1.7.2)
+  - Atlantis (0.1.1)
+  - SwiftDate (3.0.8)
+
+DEPENDENCIES:
+  - AsyncSwift
+  - Atlantis
+  - SwiftDate
+
+SPEC CHECKSUMS:
+  AsyncSwift: 46a78bceb11f0e5bb52747f740d9692ec78d2d7c
+  Atlantis: 33d4c4c436b6af3b640c2c6b2317c72d1fb41f00
+  SwiftDate: 971f8b9394f664f2226b9c3ab64e801a7291c612
+
+PODFILE CHECKSUM: 7844b13d4de564d5b0f626d7e2f88f323b587334
+
+COCOAPODS: 1.0.1

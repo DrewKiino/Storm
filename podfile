@@ -1,0 +1,25 @@
+
+#Podfile
+
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.0'
+
+workspace 'Storm.xcworkspace'
+project 'Storm.xcodeproj'
+
+use_frameworks!
+
+#####################################
+
+target 'Storm' do
+
+# logging libs
+pod 'Atlantis'
+
+# service libs
+pod 'SwiftDate'
+
+# utility libs
+pod 'AsyncSwift'
+
+end
